@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+.time-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight:bold;
+    width: 100px;
+    height: 40px;
+    background-color: orange;
+    border-radius: 9px;
+}
